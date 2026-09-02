@@ -2,19 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Hey%20Everyone!&fontSize=90&fontAlign=50&&fontColor=3E55FA" />
 
 ---
- <h2 align="center">Let's Connect and have a Chat! 💬</h2>
-<p align="center">
-  <a href="mailto:aswinxyz91@gmail.com">
-    <img <img  height="70" hspace="10" alt="image" src="https://github.com/user-attachments/assets/e58ee6bf-3283-40c2-9ecb-e2793937303f" />
-  </a>
-  <a href="https://linkedin.com/in/aswinpln">
-    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/f303e8d9-d323-46ff-b49f-9ce361cb8b3e" />
-  </a>
-  <a href="https://www.instagram.com/aswinnnnnnnn_">
-    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/afb55320-2e33-45aa-b7e4-4d5223e72775" />
-  </a>
-</p>
-
 
 ### 👨‍💻 A Little Bit About Me and My Interests
 ```yaml
@@ -121,7 +108,19 @@ pinned-repos feature handle it from your profile settings.
 </p>
 
 ---
-
+ <h2 align="center">Let's Connect and have a Chat! 💬</h2>
+<p align="center">
+  <a href="mailto:aswinxyz91@gmail.com">
+    <img <img  height="70" hspace="10" alt="image" src="https://github.com/user-attachments/assets/e58ee6bf-3283-40c2-9ecb-e2793937303f" />
+  </a>
+  <a href="https://linkedin.com/in/aswinpln">
+    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/f303e8d9-d323-46ff-b49f-9ce361cb8b3e" />
+  </a>
+  <a href="https://www.instagram.com/aswinnnnnnnn_">
+    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/afb55320-2e33-45aa-b7e4-4d5223e72775" />
+  </a>
+</p>
+---
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -129,10 +128,6 @@ pinned-repos feature handle it from your profile settings.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top languages"/>
-</p>
 
 ---
 
-![Snake animation](https://github.com/aswinportfolio/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
