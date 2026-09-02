@@ -1,22 +1,45 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=3E55FA&height=150&section=header&text=Hey%20Everyone!!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=3E55FA&height=150&section=header&text=Hey%20Everyone!&fontSize=90&fontAlign=60" />
 
 <h1 align="center">I'm Aswin</h1>
 <h3 align="center"> Design Verification Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
-### 🔭 About Me
+<h2 align="center">Let's Connect and have a Chat! 💬</h2>
 
-- 🎓 B.Tech in Electronics & Communication Engineering (ECE), NSS College of Engineering, Palakkad (APJ Abdul Kalam Technological University)
-- 🛠️ Background in Mechanical Engineering (Diploma) — I bring a cross-disciplinary view to hardware design
-- 💡 Currently deepening my skills in **VLSI / FPGA design**, working toward a role as an **FPGA Design Engineer**
-- ⚡ Interests: Digital Design (Verilog/FSM), Embedded Systems, IoT, and Computer Vision
-- 🌱 Exploring: Web development and AI agents on the side
+### 👨‍💻 A Little Bit About Me and My Interests
+```yaml
+name: Aswin
+located_in: Malappuram, Kerala, India
+current_job: Aspiring FPGA Design Engineer
+education:
+  [
+    "B.Tech in Electronics & Communication Engineering",
+    "Diploma in Mechanical Engineering",
+  ]
+
+fields_of_interest:
+  [
+    "VLSI / FPGA Design",
+    "Embedded Systems",
+    "IoT",
+    "Computer Vision",
+  ]
+
+technical_background:
+  [
+    "Verilog/FSM design on Xilinx Vivado",
+    "ESP32 / STM32 embedded projects",
+    "OpenCV-based computer vision",
+  ]
+
+currently_learning: ["Advanced VLSI/FPGA workflows"]
+2026 Goals: ["Land an FPGA Design Engineer role", "Build 3+ new hardware projects"]
+hobbies: ["Add your own here"]
+```
+  
+
 
 ---
 
