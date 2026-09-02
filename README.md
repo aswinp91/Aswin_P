@@ -115,7 +115,6 @@ pinned-repos feature handle it from your profile settings.
     <img height="55" hspace="10" alt="image" src="https://github.com/user-attachments/assets/afb55320-2e33-45aa-b7e4-4d5223e72775" />
   </a>
 </p>
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:8FA3FF,100:3E55FA&height=100&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:8FA3FF,100:3E55FA&height=150&section=footer&fontSize=90" />
 
