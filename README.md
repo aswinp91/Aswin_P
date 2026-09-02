@@ -106,13 +106,13 @@ pinned-repos feature handle it from your profile settings.
  <h2 align="center">Let's Connect and have a Chat! 💬</h2>
 <p align="center">
   <a href="mailto:aswinxyz91@gmail.com">
-    <img <img  height="70" hspace="10" alt="image" src="https://github.com/user-attachments/assets/e58ee6bf-3283-40c2-9ecb-e2793937303f" />
+    <img <img  height="60" hspace="10" alt="image" src="https://github.com/user-attachments/assets/e58ee6bf-3283-40c2-9ecb-e2793937303f" />
   </a>
   <a href="https://linkedin.com/in/aswinpln">
-    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/f303e8d9-d323-46ff-b49f-9ce361cb8b3e" />
+    <img height="55" hspace="10" alt="image" src="https://github.com/user-attachments/assets/f303e8d9-d323-46ff-b49f-9ce361cb8b3e" />
   </a>
   <a href="https://www.instagram.com/aswinnnnnnnn_">
-    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/afb55320-2e33-45aa-b7e4-4d5223e72775" />
+    <img height="55" hspace="10" alt="image" src="https://github.com/user-attachments/assets/afb55320-2e33-45aa-b7e4-4d5223e72775" />
   </a>
 </p>
 ---
