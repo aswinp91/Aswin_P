@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Hey%20Everyone!&fontSize=90&fontAlign=62&&fontColor=3E55FA" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Hey%20Everyone!&fontSize=90&fontAlign=50&&fontColor=3E55FA" />
 
 ---
  <h2 align="center">Let's Connect and have a Chat! 💬</h2>
