@@ -117,5 +117,5 @@ pinned-repos feature handle it from your profile settings.
 </p>
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:8FA3FF,100:3E55FA&height=100&section=footer&fontSize=90" />
 
