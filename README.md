@@ -124,8 +124,8 @@ pinned-repos feature handle it from your profile settings.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?aswinportfolio&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?aswinportfolio&theme=default" alt="GitHub streak" height="165"/>
 </p>
 
 
