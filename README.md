@@ -85,16 +85,6 @@ hobbies: ["Add your own here"]
 
 ---
 
-### 🔨 What I'm Currently Working On
-
-<!-- Keep this section updated with whatever you're actively building -->
-- 🔁 [PROJECT NAME] — one-line description of what it does and the stack you're using
-- 🔁 [PROJECT NAME] — one-line description of what it does and the stack you're using
-
-> I like to keep this list short and current — swap entries out as projects wrap up or new ones start.
-
----
-
 ### 📌 Pinned Repositories
 
 <!--
