@@ -106,7 +106,10 @@ pinned-repos feature handle it from your profile settings.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=default" />
   </a>
 </p>
+---
+### 💻 Languages I Use
 
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinportfolio&layout=pie&theme=radical&hide_border=true"/>
 ---
  <h2 align="center">Let's Connect and have a Chat! 💬</h2>
 <p align="center">
@@ -122,16 +125,5 @@ pinned-repos feature handle it from your profile settings.
 </p>
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinportfolio&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinportfolio&theme=radical&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinportfolio&layout=compact&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinportfolio&theme=radical&hide_border=true"/>
-</p>
-
----
 
