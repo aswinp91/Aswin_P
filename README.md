@@ -123,10 +123,11 @@ pinned-repos feature handle it from your profile settings.
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?aswinportfolio&show_icons=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?aswinportfolio&theme=default" alt="GitHub streak" height="165"/>
-</p>
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=aswinportfolio&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinportfolio&theme=radical&layout=compact" />
+</div>
 
 
 ---
