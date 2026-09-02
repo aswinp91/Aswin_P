@@ -1,12 +1,20 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=3E55FA&height=150&section=header&text=Hey%20Everyone!&fontSize=90&fontAlign=60" />
-
-<h1 align="center">I'm Aswin</h1>
-<h3 align="center"> Design Verification Engineer
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=ffffff&height=150&section=header&text=Hey%20Everyone!&fontSize=90&fontAlign=62&&fontColor=3E55FA" />
 
 ---
+ <h2 align="center">Let's Connect and have a Chat! 💬</h2>
+<p align="center">
+  <a href="mailto:aswinxyz91@gmail.com">
+    <img <img  height="70" hspace="10" alt="image" src="https://github.com/user-attachments/assets/e58ee6bf-3283-40c2-9ecb-e2793937303f" />
+  </a>
+  <a href="https://linkedin.com/in/aswinpln">
+    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/f303e8d9-d323-46ff-b49f-9ce361cb8b3e" />
+  </a>
+  <a href="https://www.instagram.com/aswinnnnnnnn_">
+    <img height="65" hspace="10" alt="image" src="https://github.com/user-attachments/assets/afb55320-2e33-45aa-b7e4-4d5223e72775" />
+  </a>
+</p>
 
-<h2 align="center">Let's Connect and have a Chat! 💬</h2>
 
 ### 👨‍💻 A Little Bit About Me and My Interests
 ```yaml
@@ -127,17 +135,4 @@ pinned-repos feature handle it from your profile settings.
 
 ---
 
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:aswinxyz91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aswinpln" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>⚡ Currently focused on breaking into FPGA design — open to opportunities and collaboration in digital design, embedded systems, and IoT.</i></p>
+![Snake animation](https://github.com/aswinportfolio/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
